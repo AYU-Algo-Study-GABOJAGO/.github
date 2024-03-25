@@ -21,8 +21,9 @@
 ## **[ 🩷 멤버 소개 ]**
 
 
+
 ## **[ 💛 규칙 ]**
-- [과제 제출 Repository](https://organized-spectrum-b74.notion.site/Java-3795dde713774c59ab90c4e95bc0eece?pvs=4)
+- [Java 알고리즘 스터디 #가보자고](https://organized-spectrum-b74.notion.site/Java-3795dde713774c59ab90c4e95bc0eece?pvs=4)
 ### **⭐ 디렉토리 구조**
        ├ 📦패키지
        ⎮    ├ 📁 디렉토리                             ex) week01, week02 ..
@@ -31,9 +32,10 @@
        ⎮    ⎮       ⎮   ├ 📃페어 문제 풀이          ex) Q5678_maeng-gu
        ├ 📝README.md
 
+
 ### **⭐ 진행 방식**
 - 모든 팀원이 주차별 돌아가며 해당 주차 알고리즘 설명 & 관련 문제 & 과제 선택
-  - 백준을 기준으로 하되, 꼭 백준 문제가 아니여도 됩니다.
+- 백준을 기준으로 하되, 꼭 백준 문제가 아니여도 됩니다.
 - 문제 선택시 난이도 기준 없으나, 열심히 선택해주시면 감사하겠습니다..
 
 
@@ -44,24 +46,24 @@
 - 일자: 2024.03.25
 - 문제:
   
-|No|사이트|문제번호|문제명|난이도|분류|부 분류|
+|No|사이트|문제번호|문제이름|난이도|분류|세부 분류|
 |-|----|-----|-----|-----|-----|----------|
 x
 
 - 과제:
  
-|No|플랫폼|문제번호|문제명|난이도|분류|부 분류|
+|No|사이트|문제번호|문제이름|난이도|분류|세부 분류|
 |-|----|-----|-----|-----|-----|----------|
 |1|백준|[28278](https://www.acmicpc.net/problem/28278)|스택 2|Silver 5|스택|자료구조|
 
 
 -----------------------------------
 
-- [] 1주차 스택(Stack)
-- [] 2주차 큐(Queue) & 덱(Deque)
-- [] 3주차 DFS(Depth First Search) & 백트래킹(BackTracking)
-- [] 4주차 BFS(Breadth First Search)
-- [] 5주차 완전탐색(Brute Force)
-- [] 6주차 팀 재편성 후..
+- [ ] 1주차 스택(Stack)
+- [ ] 2주차 큐(Queue) & 덱(Deque)
+- [ ] 3주차 DFS(Depth First Search) & 백트래킹(BackTracking)
+- [ ] 4주차 BFS(Breadth First Search)
+- [ ] 5주차 완전탐색(Brute Force)
+- [ ] 6주차 팀 재편성 후..
 
   
