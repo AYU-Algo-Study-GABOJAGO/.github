@@ -11,6 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
+
 # **[ ❤️ 스터디 소개 ]**
 
 - 기간: 2024. 03. 25 ~
