@@ -19,7 +19,10 @@
 - 시간: 매주 월요일 10:10 - 11:40
 
 ## **[ 🩷 멤버 소개 ]**
-
+|Github|[<img src="https://avatars.githubusercontent.com/jangjinhong" width="130px;" style="max-width: 100%;">](https://github.com/jangjinhong)|[<img src="https://avatars.githubusercontent.com/dongyeop00" width="130px;" style="max-width: 100%;">](https://github.com/dongyeop00)|[<img src="https://avatars.githubusercontent.com/DDongHyun00" width="130px;" style="max-width: 100%;">](https://github.com/DDongHyun00)|[<img src="https://avatars.githubusercontent.com/junwoong2" width="130px;" style="max-width: 100%;">](https://github.com/junwoong2)|[<img src="https://avatars.githubusercontent.com/leejunjae00" width="130px;" style="max-width: 100%;">](https://github.com/leejunjae00)|[<img src="https://avatars.githubusercontent.com/Choihohee" width="130px;" style="max-width: 100%;">](https://github.com/Choihohee)|
+|---|:---:|:---:|:---:|:---:|:---:|:---:|
+|이름|장진홍|구동엽|김동현|문준웅|이준재|최호희|
+|가보자고|<span>팀장</span>|<span>총무</span>|<span>팀원</span>|<span>팀원</span>|<span>팀원</span>|<span>팀원</span>|
 
 
 ## **[ 💛 규칙 ]**
@@ -79,7 +82,6 @@ x
 -----------------------------------
 
 
-- [ ] 1주차 스택(Stack)
 - [ ] 2주차 큐(Queue) & 덱(Deque)
 - [ ] 3주차 DFS(Depth First Search) & 백트래킹(BackTracking)
 - [ ] 4주차 BFS(Breadth First Search)
