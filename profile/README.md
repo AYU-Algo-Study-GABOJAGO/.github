@@ -87,7 +87,7 @@ x
   
 |No|사이트|문제번호|문제이름|난이도|분류|세부 분류|
 |-|----|-----|-----|-----|-----|----------|
-|1|백준|[1966](https://www.acmicpc.net/problem/1966)|프린터 큐|Silver 3|큐|자료구조|
+|1|백준|[1966](https://www.acmicpc.net/problem/1966)|프린터 큐|Silver 3|큐|자료구조, 우선순위 큐|
 |2|백준|[10866](https://www.acmicpc.net/problem/10866)|덱|Silver 4|덱|자료구조|
 
 
@@ -95,13 +95,12 @@ x
  
 |No|사이트|문제번호|문제이름|난이도|분류|세부 분류|
 |-|----|-----|-----|-----|-----|----------|
-|1|백준|[1021](https://www.acmicpc.net/problem/1021)|회전하는 큐|Silver 3|큐|자료구조|
+|1|백준|[1021](https://www.acmicpc.net/problem/1021)|회전하는 큐|Silver 3|큐|자료구조, 원형 큐|
 
 
 -----------------------------------
 
 
-- [ ] 2주차 큐(Queue) & 덱(Deque)
 - [ ] 3주차 DFS(Depth First Search) & 백트래킹(BackTracking)
 - [ ] 4주차 BFS(Breadth First Search)
 - [ ] 5주차 완전탐색(Brute Force)
