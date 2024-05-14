@@ -16,7 +16,7 @@
 
 - 기간: 2024. 03. 25 ~
 - 인원: 6명
-- 시간: 매주 월요일 10:10 - 11:40
+- 시간: 매주 월요일 18:00 - 20:00
 
 ## **[ 🩷 멤버 소개 ]**
 |Github|[<img src="https://avatars.githubusercontent.com/jangjinhong" width="130px;" style="max-width: 100%;">](https://github.com/jangjinhong)|[<img src="https://avatars.githubusercontent.com/dongyeop00" width="130px;" style="max-width: 100%;">](https://github.com/dongyeop00)|[<img src="https://avatars.githubusercontent.com/DDongHyun00" width="130px;" style="max-width: 100%;">](https://github.com/DDongHyun00)|[<img src="https://avatars.githubusercontent.com/junwoong2" width="130px;" style="max-width: 100%;">](https://github.com/junwoong2)|[<img src="https://avatars.githubusercontent.com/leejunjae00" width="130px;" style="max-width: 100%;">](https://github.com/leejunjae00)|[<img src="https://avatars.githubusercontent.com/Choihohee" width="130px;" style="max-width: 100%;">](https://github.com/Choihohee)|
@@ -37,10 +37,10 @@
 
 
 ### **⭐ 진행 방식**
-- 모든 팀원이 주차별 돌아가며 해당 주차 알고리즘 설명 & 관련 문제 & 과제 선택
+- 모든 팀원이 주차별 돌아가며 해당 주차 알고리즘 설명 & 페어 2문제(or 3문제)
 - 백준을 기준으로 하되, 꼭 백준 문제가 아니여도 됩니다.
 - 문제 선택시 난이도 기준 없으나, 열심히 선택해주시면 감사하겠습니다..
-- 과제 제출 리포지토리[💖](https://github.com/AYU-Algo-Study-GABOJAGO/assignments)
+- 개인 활동/오답 노트 작성 등 규칙은 디스코드에 안내되어 있습니다.
 
 
 ## **[ 🗓 일정 ]**
@@ -176,5 +176,18 @@ x
 
 
 -----------------------------------
-- [ ] 6주차 팀 재편성 후..
+### [ 6주차 ]
+- 분류 : 그리디(Greedy algorithm)
+- 일자 : 2024.05.16.
+
+- 문제:
+  
+|No|사이트|문제번호|문제이름|난이도|분류|세부 분류|
+|-|----|-----|-----|-----|-----|----------|
+|1|백준|[1541](https://www.acmicpc.net/problem/1541)|잃어버린 괄호|Silver 2|그리디|수학, 문자열, 파싱|
+|2|백준|[19598](https://www.acmicpc.net/problem/19598)|최소 회의실 개수|Gold 5|그리디|정렬, 우선순위 큐, 스위핑|
+
+
+-----------------------------------
+- [ ]
 
